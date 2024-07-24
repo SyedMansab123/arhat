@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "975429935887",
+    "project_id": "arhat-f1ad1",
+    "storage_bucket": "arhat-f1ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975429935887:android:9aa058bb7f4f813194547a",
+        "android_client_info": {
+          "package_name": "com.example.arhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975429935887-f1bq2ojjik8vvj9lo3ilojf87n9d2u9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arhat",
+            "certificate_hash": "0457c3c8d255ea9b0201e811c3b89070f5a9b046"
+          }
+        },
+        {
+          "client_id": "975429935887-d1t9ebkfhgv6mfamijcrplqmo5k4n347.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlK8RFINcX9cKVtAZ5WYZAYNAh9OnVdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975429935887-acnj1ep5878i4kd5t09f4c77cpcemhvg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975429935887-fjg5hsdu5q8lp2jtj4i1h6b44gusd6rd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arhat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
